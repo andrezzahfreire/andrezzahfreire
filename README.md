@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Andrezza Hamburgo de Freire!  
 
 ### 🚀 Sobre mim  
-🎓 **Formação**: Estudante de Bacharelado em Sistemas de Informação pela ESPM-SP (Conclusão prevista: [Dez/2026])  
+🎓 **Formação**: Estudante de Bacharelado em Sistemas de Informação pela ESPM-SP (Conclusão prevista: Dez/2026)  
 💼 **Objetivo**: Estágio em **Engenharia de Dados** ou **Desenvolvimento Backend**  
 🌟 **Habilidades**: Python, Java, SQL, Spring Boot, ETL, Apache Kafka, PySpark, Neo4j, Tableau, Tableau Prep Builder  
 🛠️ **Ferramentas**: Git, PostgreSQL  
