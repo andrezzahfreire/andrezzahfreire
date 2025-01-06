@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim  
 🎓 **Formação**: Estudante de Bacharelado em Sistemas de Informação pela ESPM-SP (Conclusão prevista: Dez/2026)  
 💼 **Objetivo**: Estágio em **Engenharia de Dados** ou **Desenvolvimento Backend**  
-🌟 **Habilidades**: Python, Java, SQL, Spring Boot, ETL, Apache Kafka, PySpark, Neo4j, Tableau, Tableau Prep Builder  
+🌟 **Habilidades**: Python, Java, SQL, Spring Boot, ETL, Neo4j, Tableau, Tableau Prep Builder  
 🛠️ **Ferramentas**: Git, PostgreSQL  
 
 ### 🌐 Conecte-se comigo  
@@ -13,16 +13,6 @@
 
 ---
 
-### 📂 Projetos Destacados  
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| **[Data Pipeline com Kafka e Neo4j](#)** | Pipeline para integração e análise de dados em Neo4j | Apache Kafka, PySpark, Neo4j | [Repositório](#) |
-| **[Datafut](https://github.com/andrezzahfreire/Datafut)** | Web scraping e análise de dados futebolísticos | Python, Pandas, Matplotlib | [Repositório](https://github.com/andrezzahfreire/Datafut) |
-| **[Sistema de Gerenciamento de Funcionários](https://github.com/andrezzahfreire/sistema-gerenciamento-funcionarios)** | API RESTful para CRUD de funcionários | Java, Spring Boot, PostgreSQL | [Repositório](https://github.com/andrezzahfreire/sistema-gerenciamento-funcionarios) |
-| **[Banco de Grafos com Neo4j](#)** | Modelagem de dados e consultas com Cypher | Neo4j, Cypher | [Repositório](#) |
-
----
 
 ### 🧑‍💻 Minhas Habilidades  
 
@@ -34,7 +24,6 @@
 #### Ferramentas e Frameworks:  
 ![Apache Kafka](https://img.shields.io/badge/Kafka-%232496ED.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-%23E64A19.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
 ![Neo4j](https://img.shields.io/badge/Neo4j-%2300A97E.svg?style=for-the-badge&logo=neo4j&logoColor=white)  
 
 #### Banco de Dados:  
