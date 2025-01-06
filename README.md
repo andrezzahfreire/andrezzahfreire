@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim  
 🎓 **Formação**: Estudante de Bacharelado em Sistemas de Informação pela ESPM-SP (Conclusão prevista: Dez/2026)  
 💼 **Objetivo**: Estágio em **Engenharia de Dados** ou **Desenvolvimento Backend**  
-🌟 **Habilidades**: Python, Java, SQL, Spring Boot, ETL, Neo4j, Tableau, Tableau Prep Builder  
+🌟 **Habilidades**: Python, Java, SQL, ETL, Neo4j, Tableau, Tableau Prep Builder  
 🛠️ **Ferramentas**: Git, PostgreSQL  
 
 ### 🌐 Conecte-se comigo  
@@ -21,9 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
-#### Ferramentas e Frameworks:  
-![Apache Kafka](https://img.shields.io/badge/Kafka-%232496ED.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+#### Ferramentas e Frameworks:   
 ![Neo4j](https://img.shields.io/badge/Neo4j-%2300A97E.svg?style=for-the-badge&logo=neo4j&logoColor=white)  
 
 #### Banco de Dados:  
@@ -55,5 +53,4 @@
 ### ✨ Curiosidades  
 
 - 🌱 Atualmente estudando **Neo4j** e explorando arquiteturas de dados com bancos de grafos.  
-- 💡 Interesse especial em construir **ETL Pipelines** eficientes utilizando **PySpark** para análise de dados em **Neo4j**.  
 - 🌟 Focada em combinar habilidades em **Engenharia de Dados** e **Backend** para criar soluções escaláveis e otimizadas.  
